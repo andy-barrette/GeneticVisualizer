@@ -1,0 +1,3 @@
+Created by Andrew G. Barrette
+
+A 2D celluar automaton initiated by a single point evolves in a according a set of rules. At each trial, you see a 5x5 grid where each axis represents modification of a particular rule (chosen at random for that trial) by some amount (central box of grid represents no change). User clicks a box to mutate CA rules in that direction, then next trial begins with new rules.
